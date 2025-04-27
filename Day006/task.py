@@ -22,4 +22,16 @@
 #
 # #reeborg's world game
 
-#
+#while loop
+#difference between while and for loop
+#for number in range (a,b)
+#Do something to each item
+#like print(number)
+
+#while something is true:
+#do something repeatedly
+number_of_hurdles=6
+while number_of_hurdles > 0:
+    print(f"Hello this is {number_of_hurdles} ")
+    number_of_hurdles -=1
+

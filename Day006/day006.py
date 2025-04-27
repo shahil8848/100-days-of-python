@@ -34,6 +34,6 @@ def my_weather():
     print('hello')
 print('world')
 # what is the output and why were others not printed
-
+#difference between space and tabs
 
 
