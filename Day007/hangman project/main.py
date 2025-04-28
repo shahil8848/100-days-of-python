@@ -40,9 +40,10 @@ while not game_over:
                 if letter == guess:
                     display[position] = letter
         else:
-            print(f"Oops! '{guess}' is not in the word.")
+            print(f"Oops! '{guess}' is not in the word.life lost ")
             lives -= 1
             wrong_letters.append(guess)
+            print(f"remaining lives {lives}")
 
     print("\nWord: " + " ".join(display))
     print(stages[6 - lives])
