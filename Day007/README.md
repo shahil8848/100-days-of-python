@@ -1,5 +1,4 @@
 # Hangman Game 🎮
-
 A simple Hangman game built in Python as part of my #100DaysOfCode challenge!
 
 ## Features
